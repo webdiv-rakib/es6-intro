@@ -11,5 +11,13 @@ const sum = add();
 
 function fullName(first, last) {
     const full = first + " " + last;
-    console.log(full);
+    return full;
+}
+
+function friends(numbs = []){
+
+}
+
+function person(human = {}){
+    
 }
